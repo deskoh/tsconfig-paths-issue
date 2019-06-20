@@ -1,0 +1,13 @@
+{
+  "include": [
+    "src/index.ts",
+  ],
+  "compilerOptions": {
+    "target": "es5",
+    "outDir": "dist",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "strict": true,
+    "baseUrl": "./src",
+  }
+}
